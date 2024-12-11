@@ -1,3 +1,5 @@
+Live URL - https://shwetanavk.github.io/Pig-Game/
+
 **Overview** 
 
 The Pig Game is a two-player dice game built using pure HTML, CSS, and JavaScript. Players take turns rolling a dice to accumulate points, and the first player to reach 100 points wins. It's a simple yet engaging browser-based game to demonstrate basic web development and DOM manipulation skills.
